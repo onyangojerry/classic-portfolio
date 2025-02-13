@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "https://classic.bmmasi.com/*"
+  to = "/classic/:splat"
+  status = 200 
