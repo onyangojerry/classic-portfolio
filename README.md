@@ -10,7 +10,7 @@ Static website made with HTML, CSS, JS and Bootstrap
 - [Customization](#customization)
 
 ## Demo
-[Demo](https://ahsankhan26.github.io/personal-portfolio)
+[Demo](https://onyangojerry.netlify.app/classic/index.html)
 
 
 ## Installation
